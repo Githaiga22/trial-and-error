@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-	word := "Hello world!"
+	word := "Hello Allan!"
 	for _, char := range word {
 		z01.PrintRune(char)
 	}
