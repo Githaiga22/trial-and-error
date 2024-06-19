@@ -14,3 +14,4 @@ func main() {
 	}
 	z01.PrintRune('\n')
 }
+//this programe prints even number letters in lowercase and odd number letters in uppercase
